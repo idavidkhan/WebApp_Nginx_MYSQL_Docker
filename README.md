@@ -51,3 +51,9 @@ docker compose up --build
 - Docker
     
 - Docker Compose
+
+
+### Clone Repo
+```
+git clone https://github.com/LondheShubham153/django-notes-app.git
+```
