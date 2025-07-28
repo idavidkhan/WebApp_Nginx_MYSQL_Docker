@@ -1,6 +1,6 @@
 ## Deploying Web App with Nginx and MySQL using Docker Compose
 
-> **Note:** The source code of the web application used in this project is **not developed by me**. My contribution is focused entirely on writing the `Dockerfile` and `docker-compose.yml` to containerize and deploy the application locally.
+> **Note:** The source code of the web application used in this project is **not developed by me**. My contribution is focused entirely on writing the `Dockerfile` and `docker-compose.yml` to containerize and deploy the application.
 
 ### 🛠 Project Description
 
