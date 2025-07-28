@@ -10,7 +10,7 @@ This project demonstrates how to deploy a web application using **Docker Compose
     
 - **MySQL** as the database service
     
-- **Docker** and **Docker Compose** for container orchestration
+- **Docker** and **Docker Compose** for container
     
 
 The goal is to provide a simple, reproducible environment to run the app locally using containers.
